@@ -54,4 +54,10 @@ My version :
 
 ## 2016-03-12-MosicBrush
 
+Designed by  [Gal Shir](https://dribbble.com/galshir) .
+
+![](https://d13yacurqjgara.cloudfront.net/users/729829/screenshots/2554806/brush.png)
+
+My version:
+
 ![](./2016-03-12-MosicBrush/images/200.png)
