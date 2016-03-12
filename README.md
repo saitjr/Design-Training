@@ -61,3 +61,15 @@ Designed by  [Gal Shir](https://dribbble.com/galshir) .
 My version:
 
 ![](./2016-03-12-MosicBrush/images/200.png)
+
+
+
+## 2016-03-12-KingElephant
+
+Find on [dribbble](https://dribbble.com/shots/1782670-King-elephant). Designed by [Paul Saksin](https://dribbble.com/ino).
+
+![](https://d13yacurqjgara.cloudfront.net/users/47145/screenshots/1782670/206.jpg)
+
+My version:
+
+![](./2016-03-12-KingElephant/images/200.png)
