@@ -73,3 +73,15 @@ Find on [dribbble](https://dribbble.com/shots/1782670-King-elephant). Designed b
 My version:
 
 ![](./2016-03-12-KingElephant/images/200.png)
+
+
+
+## 2016-03-12-STShareTool
+
+Find on [dribbble](https://dribbble.com/shots/1922001-Share-Icon). Designed by [George Bokhua](https://dribbble.com/george-bokhua).
+
+![](https://d13yacurqjgara.cloudfront.net/users/24078/screenshots/1922001/share_icon.jpg)
+
+Mine :
+
+![](./2016-03-12-STShareTool/images/200.png)
